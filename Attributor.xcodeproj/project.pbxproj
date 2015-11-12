@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08EB656A1BF48E6E00B6786F /* TextStatsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 08EB65691BF48E6E00B6786F /* TextStatsViewController.m */; };
 		08EE4C471BECE39C00DC881A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 08EE4C461BECE39C00DC881A /* main.m */; };
 		08EE4C4A1BECE39C00DC881A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 08EE4C491BECE39C00DC881A /* AppDelegate.m */; };
 		08EE4C4D1BECE39C00DC881A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 08EE4C4C1BECE39C00DC881A /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		08EB65681BF48E6E00B6786F /* TextStatsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextStatsViewController.h; sourceTree = "<group>"; };
+		08EB65691BF48E6E00B6786F /* TextStatsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextStatsViewController.m; sourceTree = "<group>"; };
 		08EE4C421BECE39C00DC881A /* Attributor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Attributor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08EE4C461BECE39C00DC881A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		08EE4C481BECE39C00DC881A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				08EE4C491BECE39C00DC881A /* AppDelegate.m */,
 				08EE4C4B1BECE39C00DC881A /* ViewController.h */,
 				08EE4C4C1BECE39C00DC881A /* ViewController.m */,
+				08EB65681BF48E6E00B6786F /* TextStatsViewController.h */,
+				08EB65691BF48E6E00B6786F /* TextStatsViewController.m */,
 				08EE4C4E1BECE39C00DC881A /* Main.storyboard */,
 				08EE4C511BECE39C00DC881A /* Assets.xcassets */,
 				08EE4C531BECE39C00DC881A /* LaunchScreen.storyboard */,
@@ -153,6 +158,7 @@
 				08EE4C4D1BECE39C00DC881A /* ViewController.m in Sources */,
 				08EE4C4A1BECE39C00DC881A /* AppDelegate.m in Sources */,
 				08EE4C471BECE39C00DC881A /* main.m in Sources */,
+				08EB656A1BF48E6E00B6786F /* TextStatsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +307,7 @@
 				08EE4C5B1BECE39C00DC881A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
